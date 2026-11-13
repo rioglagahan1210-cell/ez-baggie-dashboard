@@ -193,7 +193,7 @@ export default function Dashboard() {
                   IoT Smart Bag
                 </span>
               </div>
-              <p className="text-xs text-purple-100/80 font-medium">Smart Schedule & RFID Manager</p>
+              <p className="text-xs text-purple-100/80 font-medium">An IoT-Based Smart RFID Keychain with Web Dashboard and Real-Time Parent Notifications to Prevent Forgotten Schoolbooks</p>
             </div>
           </div>
 
@@ -217,7 +217,7 @@ export default function Dashboard() {
             </div>
             <div>
               <p className="text-xs text-slate-500 font-semibold uppercase tracking-wider">Total Scheduled</p>
-              <h3 className="text-2xl font-black text-slate-800">{jadwal.length} Slots</h3>
+              <h3 className="text-2xl font-black text-slate-800">{jadwal.length} </h3>
             </div>
           </div>
 
