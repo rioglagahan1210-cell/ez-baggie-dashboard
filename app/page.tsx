@@ -217,7 +217,7 @@ export default function Dashboard() {
             </div>
             <div>
               <p className="text-xs text-slate-500 font-semibold uppercase tracking-wider">Total Scheduled</p>
-              <h3 className="text-2xl font-black text-slate-800">{jadwal.length} </h3>
+              <h3 className="text-2xl font-black text-slate-800">{jadwal.length} Hours</h3>
             </div>
           </div>
 
